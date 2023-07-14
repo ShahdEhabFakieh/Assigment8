@@ -1,0 +1,25 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 600;
+    font-size: 80px;
+}
+.Quotes{
+  padding: 50px;
+}
+p{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+    margin-bottom: 20px;
+
+}
+button{
+    padding: 12px;
+    width: 250px;
+    height: 80px;
+    color: white;
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+}
